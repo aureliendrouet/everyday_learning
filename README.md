@@ -4,10 +4,12 @@ Table Of Content
 - Fast Inverse Square Root
 - Magic Ruby Program
 - Pseudo Random Number Generator
-- Procedural Coherent noise
+- Cyclic Redundancy Check
+- Having Fun With UTF-8 Spinners
 
 Ideas
 ---
+- procedural coherent noise
 - tween functions
 - spring functions
 - blend functions
