@@ -2,10 +2,14 @@ Table Of Content
 ---
 - Hamming Weight
 - Fast Inverse Square Root
-- Magic Ruby Program
+- Having Fun With Ascii Art
 - Pseudo Random Number Generator
 - Cyclic Redundancy Check
 - Having Fun With UTF-8 Spinners
+- Maze Generation Algorithm
+- Grayscale Algorithm
+- HSV Color Model
+- Bash Script Automation
 
 Ideas
 ---
