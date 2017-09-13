@@ -10,6 +10,8 @@ Table Of Content
 - Grayscale Algorithm
 - HSV Color Model
 - Bash Script Automation
+- Shader Trick, Gameboy Palette
+- Bit Hacks
 
 Ideas
 ---
@@ -17,11 +19,8 @@ Ideas
 - tween functions
 - spring functions
 - blend functions
-- color to black & white
-- rbg to hsv
 - curves and splines
 - path finding
-- maze algorithm
 - binary spacing partition
 - probabilities for rpg
 - time to jump apex
