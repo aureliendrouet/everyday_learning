@@ -12,6 +12,7 @@ Table Of Content
 - Bash Script Automation
 - Shader Trick, Gameboy Palette
 - Bit Hacks
+- Procedural Generation
 
 Ideas
 ---
