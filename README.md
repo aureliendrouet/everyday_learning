@@ -13,6 +13,7 @@ Table Of Content
 - Shader Trick, Gameboy Palette
 - Bit Hacks
 - Procedural Generation
+- Penner Easing Equations
 
 Ideas
 ---
@@ -29,6 +30,5 @@ Ideas
 - marching squares
 - audio spectrum visualizer
 - sfx generator
-- binary operation tricks
 - gameboy emulator
 - prime numbers
