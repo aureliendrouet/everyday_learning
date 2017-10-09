@@ -14,6 +14,13 @@ Table Of Content
 - Bit Hacks
 - Procedural Generation
 - Penner Easing Equations
+- Cryptography - Legacy
+- Cryptography - Modern
+- Cryptography - Symmetric Key
+- Cryptography - Operating Modes
+- Cryptography - Diffie-Hellman
+- Cryptography - Hashing
+- Cryptography - Public Key
 
 Ideas
 ---
