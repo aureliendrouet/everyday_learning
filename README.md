@@ -1,26 +1,26 @@
 Table Of Content
 ---
-- Hamming Weight
-- Fast Inverse Square Root
-- Having Fun With Ascii Art
-- Pseudo Random Number Generator
-- Cyclic Redundancy Check
-- Having Fun With UTF-8 Spinners
-- Maze Generation Algorithm
-- Grayscale Algorithm
-- HSV Color Model
-- Bash Script Automation
-- Shader Trick, Gameboy Palette
-- Bit Hacks
-- Procedural Generation
-- Penner Easing Equations
-- Cryptography - Legacy
-- Cryptography - Modern
-- Cryptography - Symmetric Key
-- Cryptography - Operating Modes
-- Cryptography - Diffie-Hellman
-- Cryptography - Hashing
-- Cryptography - Public Key
+- [Hamming Weight](001.md)
+- [Fast Inverse Square Root](002.md)
+- [Having Fun With Ascii Art](003.md)
+- [Pseudo Random Number Generator](004.md)
+- [Cyclic Redundancy Check](005.md)
+- [Having Fun With UTF-8 Spinners](006.md)
+- [Maze Generation Algorithm](007.md)
+- [Grayscale Algorithm](008.md)
+- [HSV Color Model](009.md)
+- [Bash Script Automation](010.md)
+- [Shader Trick, Gameboy Palette](011.md)
+- [Bit Hacks](012.md)
+- [Procedural Generation](013.md)
+- [Penner Easing Equations](014.md)
+- [Cryptography - Legacy](015.md)
+- [Cryptography - Modern](016.md)
+- [Cryptography - Symmetric Key](017.md)
+- [Cryptography - Operating Modes](018.md)
+- [Cryptography - Diffie-Hellman](019.md)
+- [Cryptography - Hashing](020.md)
+- [Cryptography - Public Key](021.md)
 
 Ideas
 ---
